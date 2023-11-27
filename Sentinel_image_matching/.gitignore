@@ -1,0 +1,6 @@
+# Temp files
+/.ipynb_checkpoints
+__pycache__
+
+# Data
+satellite_images
