@@ -1,0 +1,9 @@
+BATCH_SIZE = 512
+MAX_LEN = 51
+RANDOM_STATE = 42
+dataset_path = "dataset.csv"
+oov = '<OOV>'
+padding = 'post'
+model_path = "model/ner_model.keras"
+tokenizer_path = "model/tokenizer.pickle"
+weights_path = "model/ner_model_weights.h5"
